@@ -2,10 +2,17 @@
 ### Udemy course
 Instructor: Jose Protilla
 
+### Basic 
+
 - NumPy
 - Pandas
 - Maplotlib
 - Seaborn Data Visualization
+
+### Machine Learning with SciKit Learn
+
+> Supervised Learning
+
 - Linear Regression
 - Regularization
   - L1 Regularization: LASSO Regression
@@ -19,6 +26,9 @@ Instructor: Jose Protilla
 - Random Forests
 - Boosting Methods
 - Naive Bayes Classification and Natural Language Processing
+
+> Unsupervised Learning
+
 - K-Means Clustering
 - Hierarchical Clustering
 - DBSCAN (Density-based spatial clustering of applications with noise)

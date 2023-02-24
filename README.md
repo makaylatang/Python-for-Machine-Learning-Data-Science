@@ -1,6 +1,7 @@
 # Python-for-Machine-Learning-Data-Science-Masterclass
 ### Udemy course: Python for Machine Learning & Data Science Masterclass
 Instructor: Jose Protilla
+
 Total: 44 hours 
 
 ## Data Analysis with Python basic packages

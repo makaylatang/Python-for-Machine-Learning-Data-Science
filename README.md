@@ -7,6 +7,9 @@ Instructor: Jose Protilla
 - Maplotlib
 - Seaborn Data Visualization
 - Linear Regression
+- Regularization
+  - L1 Regularization: LASSO Regression
+  - L2 Regularization: Ridge Regression
 - Feature Engineering and Data Preparation
 - Cross Validation, Grid, and Search 
 - Logistic Regression

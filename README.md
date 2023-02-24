@@ -3,16 +3,16 @@
 Instructor: Jose Protilla
 Total: 44 hours 
 
-### Data Analysis with Python basic packages
+## Data Analysis with Python basic packages
 
 - NumPy
 - Pandas
 - Maplotlib
 - Seaborn Data Visualization
 
-### Machine Learning with SciKit Learn
+## Machine Learning with SciKit Learn
 
-> Supervised Learning
+> 🌟 Supervised Learning
 
 - Linear Regression
 - Regularization
@@ -28,7 +28,7 @@ Total: 44 hours
 - Boosting Methods
 - Naive Bayes Classification and Natural Language Processing
 
-> Unsupervised Learning
+> 🌟 Unsupervised Learning
 
 - K-Means Clustering
 - Hierarchical Clustering

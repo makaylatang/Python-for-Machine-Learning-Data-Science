@@ -15,7 +15,7 @@ Total: 44 hours
 
 ## Machine Learning with SciKit Learn
 
-🌟 Supervised Learning
+**🌟 Supervised Learning**
 
 - Linear Regression
 - Regularization
@@ -31,7 +31,7 @@ Total: 44 hours
 - Boosting Methods
 - Naive Bayes Classification and Natural Language Processing
 
-🌟 Unsupervised Learning
+**🌟 Unsupervised Learning**
 
 - K-Means Clustering
 - Hierarchical Clustering

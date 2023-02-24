@@ -4,8 +4,6 @@ Instructor: Jose Protilla
 
 Total: 44 hours 
 
-> Contents
-
 ## Data Analysis with Python basic packages
 
 - NumPy
@@ -15,14 +13,17 @@ Total: 44 hours
 
 ## Machine Learning with SciKit Learn
 
+**🌟 Data Processing & Model Evaluation Methods**
+
+- Feature Engineering and Data Preparation
+- Cross Validation, Grid, and Search 
+
 **🌟 Supervised Learning**
 
 - Linear Regression
 - Regularization
   - L1 Regularization: LASSO Regression
   - L2 Regularization: Ridge Regression
-- Feature Engineering and Data Preparation
-- Cross Validation, Grid, and Search 
 - Logistic Regression
 - KNN (K Nearest Neighbors)
 - Support Vector Machines

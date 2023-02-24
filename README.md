@@ -1,4 +1,4 @@
-# Python-for-Machine-Learning-Data-Science-Masterclass
+# Python for Machine Learning & Data Science 
 ### Udemy course: Python for Machine Learning & Data Science Masterclass
 Instructor: Jose Protilla
 
